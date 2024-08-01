@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "caesar-salad": "^2.1.0",
     "express": "^4.19.2"
   }
 }
